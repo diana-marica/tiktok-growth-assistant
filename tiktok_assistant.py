@@ -22,6 +22,16 @@ sample_comments = [
 # App title
 st.title("🌟 Toca TikTok Growth Assistant")
 st.write("Your daily helper for growing a cozy Toca Boca TikTok account.")
+st.markdown(
+    """
+    <style>
+    h1, h2, h3 {
+        font-family: 'Comic Sans MS', cursive, sans-serif;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
 # Section 1: Trending Hashtags
 st.header("🔥 Today's Trending Hashtags")

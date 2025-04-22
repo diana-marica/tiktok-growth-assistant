@@ -1,0 +1,16 @@
+[theme]
+primaryColor = "#FFB6C1"
+backgroundColor = "#FFF9F5"
+secondaryBackgroundColor = "#FFE4E1"
+textColor = "#2C2C2C"
+font = "sans serif"
+
+[server]
+headless = true
+
+[client]
+showSidebarNavigation = false
+
+[ui]
+pageTitle = "Toca TikTok Assistant"
+pageIcon = "🧸"
